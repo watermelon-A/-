@@ -1,0 +1,3 @@
+﻿  Snack.cpp
+D:\c++学习开发\Snack\Snack\Snack.cpp(107,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++学习开发\Snack\Snack\Snack.cpp(292,50): error C2059: 语法错误:“常数”
